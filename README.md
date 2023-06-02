@@ -1,6 +1,4 @@
-
 <a name="readme-top"></a>
-
 <!--
 HOW TO USE:
 This is an example of how you may give instructions on setting up your project locally.
@@ -61,11 +59,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Hello-Microverse-project] <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[Hello-microverse-project]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -342,7 +340,7 @@ After you're finished please remove all the comments and instructions!
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[Hello-Microverse-project]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
