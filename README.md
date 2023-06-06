@@ -53,7 +53,7 @@ Clone this repository to your desired folder:
 Example commands:
 
   cd my-folder
-  git clone https://github.com/cloud007bond/Hello-Microverse-Pro.git
+  git clone https://github.com/cloud007bond/Hello-Microverse-Project.git
 
 ## 👥 Authors <a name="authors"></a>
 
