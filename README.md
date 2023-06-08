@@ -5,16 +5,24 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [📹 Video Description](#Video-Description)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
+  - [Prerequisites](#Prerequisites)
   - [Setup](#setup)
+  - [Install](#Install)
+  - [Usage](#Usage)
+  - [Run tests](#Run-tests)
+  - [Deployment](#Deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
+- [⭐ Show your Support](#Show-your-support)
 - [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#FAQ)
 - [📝 License](#license)
 
-Hello-Microverse-Project
+# 📖Hello-Microverse-Project
 
 > Describe your project in 1 or 2 sentences.
 Hello-Microverse-Project is a my first project after the enrollment with Microverse.This is the Project about basic setup of Repo in github with files such as README.md,.gitignore,linters.yml file and basic setup of HTML and CSS file.
@@ -36,13 +44,9 @@ This Project is built with HTML and CSS.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](http://127.0.0.1:5500/index.html)
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
