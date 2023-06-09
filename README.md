@@ -5,21 +5,14 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [📹 Video Description](#Video-Description)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#Prerequisites)
   - [Setup](#setup)
-  - [Install](#Install)
-  - [Usage](#Usage)
-  - [Run tests](#Run-tests)
-  - [Deployment](#Deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐ Show your Support](#Show-your-support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#FAQ)
 - [📝 License](#license)
 
 # 📖Hello-Microverse-Project
@@ -82,9 +75,10 @@ Feel free to check the [issues page](../../issues/).
 
 I would like to thank my coding partners and microverse for making this project happen.
 
+
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/cloud007bond/Hello-Microverse-Project/blob/main/LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
